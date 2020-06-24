@@ -1,0 +1,9 @@
+5 pomme mange --> la vitesse 2*la vitesse initiale
+donc:
+1 pomme mange --> la vitesse 2/5*la vitesse initiale
+
+1er pomme ---> =100
+2éme pomme --->=125
+3éme pomme --->=150
+4éme pomme --->=175
+5éme pomme ---> 200
